@@ -21,8 +21,9 @@
 <div id="badges">
   <a href="https://github.com/AlamgirKhan938">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
-  </a>
-  </div>
+      </a>
+   <a href="https://twitter.com/axiftaj">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   
 
 ### Languages and Tools:
