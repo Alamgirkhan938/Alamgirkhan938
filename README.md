@@ -1,8 +1,14 @@
-@@ -6,7 +6,7 @@
+@@ -1,12 +1,12 @@
+ <h1 align="center">Hi 👋, I'm Asif Taj</h1>
+- 🔭 I’m currently working on Flutter
+- 🌱 I’m currently learning Backend
+- 💬 Ask me anything about Flutter 
 - 📫 How to reach me: axiftaj@gmail.com
 - 😄 My website: https://thetechbrothers.net
 - ⚡ Fun fact: I'm comming to teen
- ### Connect with me:
+
+  
+### Connect with me:
 <div id="badges">
   <a href="https://github.com/axiftaj">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
