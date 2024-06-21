@@ -26,7 +26,7 @@
   
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,vscode,git,postman,figma,xd&perline=5)](https://skillicons.dev)
 
 ![AlamgirKhan938 GitHub stats](https://github-readme-stats.vercel.app/api?username=AlamgirKhan&show_icons=true&theme=dark)
 
