@@ -1,7 +1,7 @@
 # Alamgir_Khan
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Alamgir&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=AlamgirKhan&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
@@ -22,6 +22,7 @@
   <a href="https://github.com/AlamgirKhan938">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
+  </div>
   
 
 ### Languages and Tools:
