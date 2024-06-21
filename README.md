@@ -1,6 +1,4 @@
-@@ -1,14 +1,38 @@
 # Alamgir_Khan
-
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=Alamgir&show_icons=true&theme=dark"
