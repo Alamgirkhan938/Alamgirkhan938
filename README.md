@@ -10,7 +10,7 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
- <h1 align="center">Hi 👋, I'm Alamgir</h1>
+ <h1 align="center">Hi 👋, I'm Alamgir Khan</h1>
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Backend
